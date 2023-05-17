@@ -1,0 +1,24 @@
+{
+  "name": "chart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://nanshanqiao.com:3000/gr/chart.git"
+  },
+  "keywords": [
+    "chart",
+    "nodejs",
+    "socket.io"
+  ],
+  "author": "zxq",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.5.4"
+  }
+}
